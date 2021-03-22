@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arlen</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">Learning something different every day!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arkyn25" alt="arkyn25" /> </p>
 
