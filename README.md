@@ -1,8 +1,26 @@
-<h1 align="center">Hi 👋, I'm Arlen</h1>
-<h3 align="center">Learning something different every day!</h3>
+Olá, me chamo **Arlen**, sou de Minas Gerais, Brazil. Atualmente estudante de desenvolvimento web na <a href="https://www.betrybe.com/"	alt="Trybe"> Trybe</a> 🚀.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arkyn25" alt="arkyn25" /> </p>
 
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
+<a href="https://www.instagram.com/arllen_dy/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.facebook.com/arlen.freitas/" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/arlenfreitas/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
+
+**Meus interesses pessoais:**
+- 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
+- 🔭 Estou aprendendo Context API & React;
+- 🌱 Estou atualmente aprendendo **Backend**;
+- 🤔 Meus hobbies são DIY e séries e filmes;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 📫 Envie email para **arlenfreitas1@gmail.com**;
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/html5_uTMKXvufNb.png" alt="html5" height="40"/>
@@ -10,7 +28,6 @@
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/javascript_FxaldcpSw.png" alt="javascript" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/nodejs_Y2TSm6B_DN.png" alt="nodejs" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/reactjs_j5WbdQuuJ.png" alt="react" height="40"/>
-  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/typescript_jx2QG0P-U0.png" alt="typescript" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/github_CEhhSRJdrr.png" alt="github" height="40"/>
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkyn25&layout=compact&hide=html" alt="arkyn25" /></p>
