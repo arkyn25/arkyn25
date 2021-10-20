@@ -16,9 +16,9 @@ Olá, me chamo **Arlen**, sou de Minas Gerais, Brazil. Atualmente estudante de d
 
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
-- 🔭 Estou aprendendo Context API & React;
+- 🔭 Estou aprendendo Sockets;
 - 🌱 Estou atualmente aprendendo **Backend**;
-- 🤔 Meus hobbies são DIY e séries e filmes;
+- 🤔 Meus hobbies são DIY, séries e filmes;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Envie email para **arlenfreitas1@gmail.com**;
 <p align="center">
