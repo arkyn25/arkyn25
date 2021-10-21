@@ -2,10 +2,7 @@ Olá, me chamo **Arlen**, sou de Minas Gerais, Brazil. Atualmente estudante de d
 
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
-
-<a href="https://www.instagram.com/arllen_dy/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
+ 
 <a href="https://www.facebook.com/arlen.freitas/" target="_blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
